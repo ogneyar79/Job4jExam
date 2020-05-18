@@ -7,3 +7,6 @@ By Sirotkin Maksim
 
 ### Usage 
  My Improving Stady with Android Development
+ 
+ #### Contacts
+ maksimus.s@mail.ru
